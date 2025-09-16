@@ -1,1 +1,1 @@
-{"name":"Mi App PWA","short_name":"MiPWA","description":"Landing PWA de ejemplo","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/"}
+{"name":"Mi App PWA","short_name":"MiPWA","description":"Landing PWA offline","start_url":"/travelcab-pwa-1/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/travelcab-pwa-1/"}
