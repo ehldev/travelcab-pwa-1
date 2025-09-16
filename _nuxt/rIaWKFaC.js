@@ -1,0 +1,1 @@
+import{_ as o,x as s,A as r,P as a,y as t}from"#entry";const n={};function c(e,l){return t(),s("div",null," Producto con slug "+r((e._.provides[a]||e.$route).params.slug),1)}const _=o(n,[["render",c]]);export{_ as default};
